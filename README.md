@@ -1,7 +1,9 @@
 # Add Store to Windows 10 Enterprise LTSC  
 For Windows 10 Enterprise LTSC 2021  
 
-This is the updated version which includes the latest version of Store app as of 7/8/2023.
+This is the updated version which includes the latest version of Store app as of 7/8/2023. Probably kinda buggy but it might work.
+
+Alternatively, you can do "wsreset -i" to install Microsoft Store aswell.
 
 [Download](https://github.com/kr0tchet/LTSC-Add-MicrosoftStore-2021/archive/refs/heads/master.zip)  
 ## To install, run Add-Store.cmd as Administrator  
